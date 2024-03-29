@@ -1,1 +1,2 @@
 # Using the newly released Gemini Pro API with LangChain for building chatbots, multimodal applications and RAG pipeline. 
+A RAG (Retrieval-Augmented Generation) pipeline refers to a sequence of steps or components that are used to implement the retrieval-augmented generation approach. In the context of natural language processing (NLP), a RAG pipeline typically involves integrating retrieval-based techniques with generative models to enhance the quality and relevance of generated text outputs.
